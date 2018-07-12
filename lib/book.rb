@@ -11,8 +11,8 @@ end
  def author 
    @author
  end
- def page
- @page 
+ def page_count
+ @page_count
  end
  
 
